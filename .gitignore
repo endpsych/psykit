@@ -1,0 +1,19 @@
+node_modules/
+dist/
+build/
+out/
+docs/
+.next/
+coverage/
+.env
+.env.local
+.env.*.local
+*.log
+
+# Claude Code local config and worktrees
+.claude/
+
+
+.docs
+
+.dist
