@@ -98,9 +98,8 @@ All data — including generated items, the item bank, and assembled tests — i
 ### Creating a single verbal reasoning item
 ![Verbal 1](psykit-gifs/psykitverbal1.gif)
 
-### Creating a single number series item
+### Creating a batch of verbal reasoning itemss
 ![Verbal Batch](psykit-gifs/psykitverbalbatch.gif)
-Creating a batch of verbal reasoning items
 
 ### Creating a single number series item
 ![Number Single](psykit-gifs/psykitnumbersingle.gif)
