@@ -39,6 +39,56 @@ This tool is suitable for:
 
 ---
 
+## Installation
+PsychKit is currently distributed as a **source-based Electron application**. That means there is **no standalone installer yet**; to use it, you run it from the project source code.
+
+### Requirements
+* [Node.js](https://nodejs.org/) and npm installed
+* Git installed if you want to clone the repository directly
+
+### Download the project
+Clone the repository:
+
+```bash
+git clone https://github.com/endpsych/psykit.git
+cd psykit
+```
+
+Or download the repository as a ZIP from GitHub and extract it locally.
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Run the app
+
+```bash
+npm start
+```
+
+This command builds the frontend and launches the Electron desktop app.
+
+### Useful development commands
+
+```bash
+npm run build
+```
+Builds the production frontend bundle.
+
+```bash
+npm run dev
+```
+Starts the Vite development server only.
+
+```bash
+npm run desktop
+```
+Launches Electron directly.
+
+---
+
 ## Data & Privacy
 All data — including generated items, the item bank, and assembled tests — is stored exclusively in your browser's local storage. Nothing is transmitted to any external server. **Clearing your browser data will permanently erase all stored content.**
 
