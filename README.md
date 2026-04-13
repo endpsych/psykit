@@ -45,39 +45,40 @@ All data — including generated items, the item bank, and assembled tests — i
 
 ## Project Demos
 
-
+### Creating a single verbal reasoning item
 ![Verbal 1](psykit-gifs/psykitverbal1.gif)
-Creating a single verbal reasoning item
 
+### Creating a single number series item
 ![Verbal Batch](psykit-gifs/psykitverbalbatch.gif)
 Creating a batch of verbal reasoning items
 
+### Creating a single number series item
 ![Number Single](psykit-gifs/psykitnumbersingle.gif)
-Creating a single number series item
 
+### Creating a batch of number series items
 ![Number Batch](psykit-gifs/psykitnumberbatch.gif)
-Creating a batch of number series items
 
+### Creating a single progressive matrices item
 ![Matrix Single](psykit-gifs/psykitmatrixsingle.gif)
-Creating a single progressive matrices item
 
+### Creating a batch of progressive matrices items
 ![Matrix Batch](psykit-gifs/psykitmatrixbatch.gif)
-Creating a batch of progressive matrices items
 
+### Creating a single spatial rotation item
 ![Spatial Single](psykit-gifs/psykitspatialsingle.gif)
-Creating a single spatial rotation item
 
+### Creating a batch of spatial rotation items
 ![Spatial Batch](psykit-gifs/psykitspatialbatch.gif)
-Creating a batch of spatial rotation items
 
+### Reviewing the items in the item bank
 ![Item Bank](psykit-gifs/psykititembank.gif)
-Reviewing the items in the item bank
 
+### Building a test using the test builder feature
 ![Test Builder](psykit-gifs/psykittestbuilder.gif)
-Building a test using the test builder feature
 
+### Taking a test
 ![Test Taking](psykit-gifs/psykittesttaking.gif)
-Taking a test
+
 
 
 
